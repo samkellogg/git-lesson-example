@@ -2,6 +2,6 @@
 
 This is a repository for the Git tutorial.
 
-It contains random text that I will use to demonstrate.
+It contains random text that I will use to demonstrate use of Git and gitk.
 
 -- Remi Rampin
